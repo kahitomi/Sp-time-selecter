@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background: transparent;
+	border: 0px;
+	outline: none;
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+body {
+	background-color: #e1e1e1;
+	padding: 50px 0px;
+	font-family:  "lucida sans unicode", "lucida grande";
+	font-style: 16px;
+	color: #212121;
+	-webkit-touch-callout: none;
+}
+
+#main_title {
+	position: relative;
+	font-size: 24px;
+	line-height: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: #515151;
+	padding-bottom: 130px;
+}
+
+#selecter-container{
+	position: relative;
+	width: 630px;
+	margin: 0px auto;
+	height: 100px;
+	background-color: #d9d9d9;
+}
